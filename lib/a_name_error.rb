@@ -1,3 +1,3 @@
 "hello world"
 
-hello_world = 2
+helloworld = 2
